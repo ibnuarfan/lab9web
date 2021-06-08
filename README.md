@@ -1,4 +1,6 @@
 # lab9web
+Nama : Ibnu Soffi Arfan
+Nim  : 311910359
 1.Header dan footer
 
 ![Capture](https://user-images.githubusercontent.com/81373389/121113385-2e945c80-c83c-11eb-95cf-afb3d91c3b2a.JPG)
